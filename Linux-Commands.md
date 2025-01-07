@@ -37,3 +37,18 @@
 
 * mv file-name new-file-name
   > To rename file/directory
+* uname
+  > used to check the complete OS information of the system.
+* **-e** means the file was removed
+* locate word1\*word2
+  > For search using those to word in DB.
+* ps
+  > to check the active processes in the terminal.
+* wget file-url
+  > allows to download files from the internet.
+* cal
+  > To open calender in terminal
+* whereis file-name
+  > used to see the exact location of the file.
+* df
+  > gets the details of the file system.
